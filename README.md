@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ala Eddine Yacoub</h1>
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Ala Eddine Yacoub</h1>
+    <p align="center">
+          <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="50"/>
+        </p>
 
+</p>
+
+---
 Hello there!, a passionate fullstack developer with a knack for exploring new technologies and crafting software solutions and quick hacks. I thrive on turning ideas into reality through elegant code.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChatIsMut1ed" alt="HridoyHazard" /> </p>
